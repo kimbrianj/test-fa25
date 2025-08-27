@@ -5,7 +5,3 @@ This is a test repo.
 ## Subheading
 
 *Markdown formatting*
-
-Here are some changes.
-
-Some more changes here.
