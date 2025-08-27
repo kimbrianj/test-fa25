@@ -4,4 +4,3 @@ This is a test repo.
 
 ## Subheading
 
-*Markdown formatting*
